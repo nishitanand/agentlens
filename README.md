@@ -54,7 +54,7 @@ AgentLens is a React-based analytics dashboard for understanding how AI agents u
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/nishitanand/agentlens
 cd agentlens
 ```
 
